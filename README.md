@@ -1,4 +1,4 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Na'Kai Davis<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Na'Kai Davis  <img src="https://i.pinimg.com/originals/38/e3/4e/38e34e33dd419370db64707774608091.gif" alt=" " style="width: 30px;margin-left: 10px;"></h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Just a guy thats into all things tech...</h3>
 
 <ul style="list-style: none;">
