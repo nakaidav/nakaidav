@@ -2,11 +2,10 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Just a guy thats into all things tech...</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm a beginner when it comes to all this, really</li>
-<li>:fire: I’m looking to join and collaborate on some projects that make use of <strong> JavaScript, HTML, CSS, Translations</strong></li>
-<li>:statue_of_liberty: From Long Island, New York</li>
-<li>:rocket: I'm looking for new projects and work opportunities</li>
-<li>:metal: Let's get it!</li>
+ <li>:statue_of_liberty: I'm from Long Island, New York</li>
+<li>:seedling: I'm a beginner when it comes to all this, really, I'm lost</li>
+<li>:rocket: I'm also looking for new collaborative projects and work opportunities all the time</li>
+ <li>:fire: I’m always looking to learn new tricks that utilize <strong> JavaScript, HTML, CSS, Translations</strong></li>
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
